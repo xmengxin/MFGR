@@ -1,5 +1,4 @@
-# Project Title
-Memory-Free Generative Replay For Class-Incremental Learning
+# Memory-Free Generative Replay For Class-Incremental Learning
 
 ## Description
 This is the source code for "[Memory-Free Generative Replay For Class-Incremental Learning](https://arxiv.org/abs/2109.00328)"
